@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Baskervville+SC&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+body {
+    font-family: "Rubik", serif;
+}
+p {
+    font-family: "Rubik", serif;
+}
+h1 {
+    font-family: "Rubik", serif;
+}
+.st-emotion-cache-pt4fs1.ef3psqc12 {
+    color: #FFF;
+}
+.stFileUploaderFileName.st-emotion-cache-1uixxvy.e1b2p2ww6 {
+    color: #FFF;
+}
+.st-c3.st-b4.st-c4.st-au.st-c5.st-ar.st-c6.st-c7.st-c8{
+    color: #FFF;
+}
+/*to disable streamlit default buttons showing*/
+.st-emotion-cache-15ecox0.ezrtsby0{
+    display: none;
+  }
+/* to modify the upward banner color */
+.st-emotion-cache-1dp5vir {
+    background-image: linear-gradient(90deg, #AF47D2, rgb(255, 253, 128));
+}
+/* to modify color and size of buttons of appels and presents values */
+.calls_value{
+    /* background-color: #AF47D2; */
+    font-weight: 500;
+    font-size: 50px;
+    text-align: center;
+}

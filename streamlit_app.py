@@ -1,4 +1,6 @@
 import streamlit as st
+import numpy as np
+np.bool = np.bool_
 import plotly.express as px
 from helper import date_to_datetime,count_contacts_per_country,excel_pipeline, filter_satisfaction, satisfaction, successful_calls, sum_presents
 import pandas as pd

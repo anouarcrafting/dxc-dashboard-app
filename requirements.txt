@@ -4,3 +4,4 @@ numpy==2.0.1
 pandas==2.2.2
 plotly==5.9.0
 pyscript==0.2.5
+streamlit==1.36.0
